@@ -38,45 +38,58 @@ This contract sets out shared expectations and commitments for how our team will
 
 
 * Proactive Notifications: Team members are required to notify the group in advance about:<br>
-  * Any potential delays in meeting a deadline.<br>
-  * Absences from scheduled team meetings or classes.<br>
-  * Any blockers or issues that are preventing them from making progress on their tasks.
+  *   Any potential delays in meeting a deadline.
+  *   Absences from scheduled team meetings or classes.
+  *   Any blockers or issues that are preventing them from making progress on their tasks.
 
 
-* Code of Conduct: All communication will remain respectful, professional, and constructive. We commit to the following behaviours:<br>
-  * Active Listening: We will listen to understand, not just to reply. We will avoid interrupting others.<br>
-  * Inclusive Participation: We will ensure everyone has an opportunity to speak and contribute their ideas.<br>
-  * Constructive Feedback: When reviewing work or discussing ideas, feedback will be focused on the task or code, not the person. We will be specific and provide suggestions for improvement.<br>
+* Code of Conduct: All communication will remain respectful, professional, and constructive. We commit to the following behaviours:
+  *   Active Listening: We will listen to understand, not just to reply. We will avoid interrupting others.
+  *   Inclusive Participation: We will ensure everyone has an opportunity to speak and contribute their ideas.
+  *   Constructive Feedback: When reviewing work or discussing ideas, feedback will be focused on the task or code, not the person. We will be specific and provide suggestions for improvement.
 
 ### (c)Attendance & Participation
+
 * All members are expected to attend scheduled team meetings on time. If unable to attend, a member must notify the team in advance via **Discord** or **Instagram**.
+
+
 * The absent member is responsible for catching up on any missed discussions and decisions.
+
+
 * During all team activities, every member is expected to actively contribute ideas, ask questions, and engage respectfully in the discussion. We will ensure all voices are heard.
 
 ### (d)Decision Making
-* Our goal is to make general  decisions via consensus (unanimous agreement). If consensus cannot be reached within a reasonable timeframe, a decision will be made by a majority vote.
+* Our goal is to make general decisions via consensus (unanimous agreement). If consensus cannot be reached within a reasonable timeframe, a decision will be made by a majority vote.
 
 ### (e)Work Quality
 * Timeliness & Testing: All assigned tasks are expected to be completed by the agreed-upon deadline. All code must be tested by the author to ensure it functions as expected before a Pull Request is created.
 
+
 * Git Workflow: All new work must be developed on a separate feature branch. Direct pushes to the `main` branch are not permitted.
+
 
 * Code Review Process:
     *   Each Pull Request must be reviewed and approved by at least **two** other team members before being merged.
-    *   Reviewers are expected to provide constructive feedback in a timely manner (e.g., within 24 hours of the request).
+    *   Reviewers are expected to provide constructive feedback within 24 hours of the request.
     *   The author of the PR is responsible for addressing the feedback before the code is merged.
 
 ### (f) Environment & Support
 
-* Asking for Help: It is not only acceptable but highly encouraged to ask for help when you are stuck on a problem for more than a reasonable amount of time (e.g., 1 hour). We succeed or fail as a team.
+* Asking for Help: It is not only acceptable but highly encouraged to ask for help when you are stuck on a problem for more than a hour. We succeed or fail as a team.
+
+
 * Blameless Culture: We will treat mistakes and bugs as learning opportunities, not as reasons to assign blame. Our focus will be on fixing the problem and improving our process to prevent similar mistakes in the future.
 
 ---
-## 3.Conflict resolution
+## 3.Conflict Resolution
 We commit to handling disagreements and conflicts in a constructive and respectful manner. Our process is as follows:
 
 * Direct & Private Discussion: Involved members will first attempt to resolve the issue privately, focusing on the issue, not the person, with kindness and respect.
+
+
 * Team Mediation: If a private discussion is unsuccessful, the issue will be brought to the entire team for a mediated conversation to find a compromise.
+
+
 * External Mediation: If the conflict persists, we will collectively seek help from a TA or instructor to act as an impartial mediator.
 
 ---
@@ -84,20 +97,25 @@ We commit to handling disagreements and conflicts in a constructive and respectf
 ## 4.Accountability
 
 * Each team member is responsible for completing their share of the work in a timely manner and to a high standard.
+
+
 * If a team member is facing difficulties, they are responsible for proactively seeking assistance from teammates, TAs, or instructors.
+
+
 * Persistent failure to meet the expectations outlined in this contract may result in lower peer evaluation scores.
+
 ---
 ## 5.Signatures
 By signing below, we acknowledge that we have read, discussed, and agreed to these terms. We understand that this contract is binding for the duration of the course and may be revised with the agreement of all team members.
 
 Team Member Signatures:
 
-* Shourya Harsh Vardhan - 1011455499 <br>
-* Max (Haotian) Xu - 1010989673 <br>
-* Janice Lam (Lam Yan) - 1010952088 <br>
-* Rasyid Rafi Pamuji - 1011270081 <br>
-* Zhengyu Yi - 1008073022 <br>
-* Haoying Zhu - 1010991116 <br>
+* Shourya Harsh Vardhan - 1011455499
+* Max (Haotian) Xu - 1010989673
+* Janice Lam (Lam Yan) - 1010952088
+* Rasyid Rafi Pamuji - 1011270081
+* Zhengyu Yi - 1008073022
+* Haoying Zhu - 1010991116
 
 Date: 2025-10-16
 ---
